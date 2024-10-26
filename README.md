@@ -30,7 +30,7 @@
     <br><br>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=www.naver.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=www.naver.com"> </a>
+    <div align= "center"> <a href=www.naver.com> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://sprout-canary-eec.notion.site/1c638bcd17614cca81954ed801e5f4eb"> </a>
          <a href=mailto:www.naver.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:www.naver.com"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
