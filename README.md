@@ -31,7 +31,7 @@
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://sprout-canary-eec.notion.site/1c638bcd17614cca81954ed801e5f4eb> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://sprout-canary-eec.notion.site/1c638bcd17614cca81954ed801e5f4eb"> </a>
-         <a href=mailto:yeonjuminju@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yeonjuminju@gmail.com"> </a>
+<!--          <a href=mailto:yeonjuminju@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:yeonjuminju@gmail.com"> </a> -->
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
