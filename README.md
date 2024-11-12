@@ -25,7 +25,15 @@
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
           <br/><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          </div>
+          <img src="https://img.shields.io/badge/H2_Database-%23A1C7B2.svg?style=for-the-badge&logo=h2&logoColor=white" alt="H2 Database">
+          <img src="https://img.shields.io/badge/Thymeleaf-%23495B6B.svg?style=for-the-badge&logo=thymeleaf&logoColor=white" alt="Thymeleaf">
+          <img src="https://img.shields.io/badge/JUnit-%23A8B9C4.svg?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit">
+          <br/><img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis">
+          <img src="https://img.shields.io/badge/Spring_Data_JPA-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Data JPA">
+          <img src="https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security">
+          <img src="https://img.shields.io/badge/QueryDSL-%2338A3D8.svg?style=for-the-badge&logo=querydsl&logoColor=white" alt="QueryDSL">
+          <img src="https://img.shields.io/badge/JPQL-%23338D91.svg?style=for-the-badge&logo=java&logoColor=white" alt="JPQL">
+    </div>
     </div>
     <br><br>
     <div style="text-align: left;">
